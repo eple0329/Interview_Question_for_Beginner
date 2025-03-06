@@ -21,7 +21,7 @@
 - 중복이 없는 코드
 - 테스트가 용이한 코드
 
-등등… 더 읽어보기 > https://jbee.io/etc/what-is-good-code/
+등등… 더 읽어보기 > [https://jbee.io/articles/etc/좋은 코드란 무엇일까](https://jbee.io/articles/etc/좋은 코드란 무엇일까)
 
 ## Object Oriented Programming
 
